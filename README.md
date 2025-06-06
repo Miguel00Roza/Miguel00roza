@@ -1,7 +1,9 @@
 <h1>Opa, eu sou o Miguel e esse é meu perfil</h1>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=miguel00roza&show_icons=true&theme=github_dark&border_color=e2e2e2"
+  <a href="https://github.com/Miguel00Roza">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel00Roza&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel00Roza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
 </p>
 
 <h4>Linguagens:</h4>
