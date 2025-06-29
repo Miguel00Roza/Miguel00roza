@@ -9,6 +9,7 @@
 <h4>Linguagens:</h4>
 <p>
 <img width="80px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
