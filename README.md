@@ -14,6 +14,10 @@
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
 </div>
 <br>
+<div >
+<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVpZjNydzFoMWljeHl6eHgxM2ZrbHN5ZWk1aHlidDVvN2kyMWlheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif"  />
+</div>
+<br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Miguel00Roza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Miguel00Roza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -28,7 +32,7 @@
 </picture>
 
 ###
-<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVpZjNydzFoMWljeHl6eHgxM2ZrbHN5ZWk1aHlidDVvN2kyMWlheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif"  />
+
 
 ###
 
