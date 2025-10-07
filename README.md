@@ -1,21 +1,34 @@
-<h1 align="center">Hello, i'm a programming student</h1>
+<h1 align="center">Hey 👋 My name is Miguel, What's Up?</h1>
+
+###
 
 <div align="center">
-  <a href="https://github.com/Miguel00Roza">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel00Roza&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel00Roza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
 </div>
-<p>
+<br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Miguel00Roza&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Miguel00Roza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Miguel00Roza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-</p>
 
-<h4>Languages:</h4>
-<p>
-<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
-<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</p>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVpZjNydzFoMWljeHl6eHgxM2ZrbHN5ZWk1aHlidDVvN2kyMWlheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif"  />
+
+###
+
