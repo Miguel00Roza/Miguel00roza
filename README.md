@@ -3,15 +3,17 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="js logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo"  />
 </div>
 <br>
 <div >
@@ -21,7 +23,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Miguel00Roza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel00roza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel00roza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 </div>
 
