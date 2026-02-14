@@ -39,8 +39,8 @@ Atualmente estudando também sobre Arduino. <br>
 ### 📊 Minhas Estatísticas:
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Miguel00Roza&theme=dark" height="400px"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miguel00Roza&theme=dark" height="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Miguel00Roza&theme=dark" height="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miguel00Roza&theme=dark" height="400"/>
 </p>
 
 <p align="center">Não é porque tem emoji que não foi eu que fiz, <strong>beta</strong></p>
