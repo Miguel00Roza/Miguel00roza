@@ -1,9 +1,5 @@
 # E aí, eu sou o Miguel! ✌️
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdnd3NnenpiandzenVmb2t3bWY0djB1cWFoN2x6MmtjbHpkbDVwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Cpgf1zzMMy4w/giphy.gif" width="300">
-</p>
-
 ### ☕ Estudante de Programação
 
 Sou um estudante de programação no IFC. <br>
