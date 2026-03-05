@@ -6,8 +6,6 @@ Sou um estudante de programação no IFC. <br>
 Foco em aprender mais sobre back-end. <br>
 Atualmente estudando também sobre Arduino. <br>
 
-<p align="center"><strong>Full-stack ❌ | Full-gambiarra ✅</strong></p>
-
 ---
 
 ### 📚 O que estudo atualmente:
@@ -38,5 +36,3 @@ Atualmente estudando também sobre Arduino. <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Miguel00Roza&theme=dark" height="400" width="auto"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miguel00Roza&theme=dark" height="400" width="auto"/>
 </p>
-
-<p align="center">Não é porque tem emoji que não foi eu que fiz, <strong>beta</strong></p>
