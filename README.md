@@ -27,6 +27,6 @@ Foco em aprender mais sobre back-end. <br>
 ### 📊 Minhas Estatísticas:
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Miguel00Roza&theme=dark" height="400" width="auto"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miguel00Roza&theme=dark" height="400" width="auto"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Miguel00Roza&theme=nord_dark" height="400" width="auto"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Miguel00Roza&theme=nord_dark" height="400" width="auto"/>
 </p>
